@@ -1,0 +1,16 @@
+{
+  "name": "ritik-anime-world",
+  "version": "1.0.0",
+  "private": true,
+  "description": "RITIK ANIME WORLD Android wrapper project",
+  "scripts": {
+    "android:sync": "cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.4.3",
+    "@capacitor/core": "^7.4.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.4.3"
+  }
+}
